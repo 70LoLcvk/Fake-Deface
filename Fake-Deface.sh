@@ -12,13 +12,13 @@ y='\e[1;33m' #yellow
 banner(){
 clear
 printf "
-$$g      $c  (FakeSubdomain)
-$$g   $y Author: 70LoLcvk
-$$g  $y Team : The Night [x] Ganest Seven
-$$g   $y Github : github.com/70LoLcvk
-$$g
-$$g               Warning!g !!!
-$$g Kalau Soff jangan pake nama underground asli kalian entar kebully
+$      $c  (FakeSubdomain)
+$   $y Author: 70LoLcvk
+$  $y Team : The Night [x] Ganest Seven
+$   $y Github : github.com/70LoLcvk
+$g
+$g               Warning!g !!!
+$g Kalau Soff jangan pake nama underground asli kalian entar kebully
 "
 }
 menu(){
