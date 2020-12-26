@@ -6,6 +6,8 @@ apt upgrade
 
 apt install git
 
+cd /sdcard
+
 git clone https://guithub.com/70LoLcvk/Fake-Deface
 
 cd Fake-Deface
