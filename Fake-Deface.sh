@@ -12,13 +12,13 @@ y='\e[1;33m' #yellow
 banner(){
 clear
 printf "
-$r┻┳|$g―-∩       $c  (FakeSubdomain)
-$r┳┻|$g　　ヽ   $y Author: 70LoLcvk
-$r┻┳|$g　●   |  $y Team : Ganest Seven
-$r┳┻|$g▼) _ノ   $y Github : github.com/70LoLcvk
-$r┻┳|$g￣　)
-$r┳ﾐ$g(￣ ／                  Warning!g !!!
-$r┻┳T$g￣Kalau Soff jangan pake nama underground asli kalian entar kebully
+$$g      $c  (FakeSubdomain)
+$$g   $y Author: 70LoLcvk
+$$g  $y Team : The Night [x] Ganest Seven
+$$g   $y Github : github.com/70LoLcvk
+$$g
+$$g               Warning!g !!!
+$$g Kalau Soff jangan pake nama underground asli kalian entar kebully
 "
 }
 menu(){
